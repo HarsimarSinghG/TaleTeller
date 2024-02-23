@@ -1,1 +1,1 @@
-This project was prepared in a team at Deerhacks 2024. The team consisted of Harsimar Singh, Hardik Shah, Tony Qiu, and Tejesh Arujuna.
+Harsimar Singh, Hardik Shah, Tony Qiu, and Tejesh Arujuna teamed up at Deerhacks 2024 to complete this project.
